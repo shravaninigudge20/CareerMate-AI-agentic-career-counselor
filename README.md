@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerMate AI – Agentic Career Counseling Companion
 
 CareerMate AI is a full-stack, AI-powered web application designed to guide students in choosing and preparing for the right career path. The application leverages multiple specialized AI agents orchestrated by a central coordinator, utilizing IBM Granite models via Watsonx.ai (with high-fidelity simulator fallbacks). It incorporates a RAG (Retrieval-Augmented Generation) knowledge base stored in ChromaDB to retrieve career frameworks, roadmaps, and industry trends.
@@ -166,3 +167,6 @@ It automatically handles fetching and refreshing the IBM Cloud IAM oauth token:
 6. **Inspect Gaps:** Go to the Skill Gap page to see a side-by-side list of matched vs missing skills, priority levels, and effort estimates.
 7. **Study Roadmap:** Open the Roadmap page to view a 30-90-180 day timeline. Check off topics as you study them!
 8. **Explore RAG Database:** Open the RAG Explorer page to query the underlying vector index and examine the career guidelines stored in ChromaDB.
+=======
+# CareerMate-AI-agentic-career-counselor
+>>>>>>> 15be881d7d7e9e139d60ab7993b90781833c6837
