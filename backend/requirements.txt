@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+pypdf
+requests
+python-dotenv
+bcrypt
+pyjwt
